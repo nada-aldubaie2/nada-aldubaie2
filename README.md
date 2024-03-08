@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 <br>
 
 <br>
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
