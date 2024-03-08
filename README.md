@@ -1,27 +1,15 @@
 ![HELLO WORLD I'M NADA ALDUBAIE](https://pin.it/2TSzpIcia)
 
-<!--
-**nada-aldubaie2/nada-aldubaie2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-# When I'm AFK:
+- 🔭 I’m currently working as freelancer 
+- 🌱 I’m currently learning Next.js
+- 🎯 I'm aiming to be full stack developer sooner.
+- ⚡ Fun fact: I draw, read books, play fitness.
+
+
 <br>
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
-<br>
-
 <br>
 
 <p align="center">My Accounts
@@ -31,15 +19,13 @@ Here are some ideas to get you started:
   </a>
 </p>
 <br>
-<br>
 
 ## <p align="center">💡A Quote:
   
  <div align="center">
    
    [![nada](https://quotes-github-readme.vercel.app/api?border=true&horizontal&theme=dark?quote=)](https://github.com/piyushsuthar/github-readme-quotes)
-<br>
-<br>
+
 <br>
 
 ## <p align="center">💻 My Tech Stack:
@@ -47,3 +33,18 @@ Here are some ideas to get you started:
  <div align="center">
    
  [![My Skills](https://skillicons.dev/icons?i=bootstrap,sass,tailwind,js,ts,react,nextjs,)](https://skillicons.dev)
+<br>
+
+
+ ## <p align="center">📖 Read My Blogs:
+  <a href="https://dev.to/nada2react">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+</p>
+<br>
+<br>
+### <p align="center"> When I'm AFK:
+<br>
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
