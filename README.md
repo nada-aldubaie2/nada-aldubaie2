@@ -33,4 +33,17 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+## <p align="center">💡A Quote:
+  
+ <div align="center">
+   
+   [![nada](https://quotes-github-readme.vercel.app/api?border=true&horizontal&theme=dark?quote=)](https://github.com/piyushsuthar/github-readme-quotes)
+<br>
+<br>
+<br>
+
+## <p align="center">💻 My Tech Stack:
+  
+ <div align="center">
+   
+ [![My Skills](https://skillicons.dev/icons?i=bootstrap,sass,tailwind,js,ts,react,nextjs,)](https://skillicons.dev)
