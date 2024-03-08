@@ -1,4 +1,4 @@
-![https://pin.it/2TSzpIcia]
+![Hello World, I'm Nada Aldubaie](https://pin.it/2TSzpIcia)
 
 <!--
 **nada-aldubaie2/nada-aldubaie2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
