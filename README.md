@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="center">My Accounts
   <br>
-  <a href="[https://skillicons.dev](https://www.linkedin.com/in/nada-aldubaie-3a3a96238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)https://www.linkedin.com/in/nada-aldubaie-3a3a96238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/nada-aldubaie-3a3a96238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
