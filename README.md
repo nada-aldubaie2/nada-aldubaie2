@@ -1,7 +1,5 @@
-![HELLO WORLD I'M NADA ALDUBAIE]([https://pin.it/2TSzpIcia](https://pin.it/3Bn7IhflS))
-  <a  href="[https://www.linkedin.com/in/nada-aldubaie-3a3a96238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://pin.it/2TSzpIcia](https://pin.it/3Bn7IhflS))">
-    <img src="[https://skillicons.dev/icons?i=linkedin](https://pin.it/2TSzpIcia](https://pin.it/3Bn7IhflS))" />
-  </a>
+![HELLO WORLD I'M NADA ALDUBAIE](https://pin.it/3Bn7IhflS)
+ 
 
  ### <p align="center">Contact Me
  <div align="center">
