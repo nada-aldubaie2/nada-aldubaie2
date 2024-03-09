@@ -3,10 +3,10 @@
 
 
 
-
+<div align="center">
 
 https://github.com/nada-aldubaie2/nada-aldubaie2/assets/126459665/3a8ec013-cdb7-4594-8f23-8a93f011ad76
-
+</div>
 
 
 ### <p align="center">Contact Me
