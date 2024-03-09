@@ -1,9 +1,16 @@
+
+https://github.com/nada-aldubaie2/nada-aldubaie2/assets/126459665/b5724cbf-bb70-476b-b9db-c408b96544b8
 ![HELLO WORLD I'M NADA ALDUBAIE](https://pin.it/3Bn7IhflS)
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://pin.it/2TSzpIcia) 
-[![Watch the video](https://pin.it/2TSzpIcia](https://youtu.be/vt5fpE0bzSY) 
+
+
+https://github.com/nada-aldubaie2/nada-aldubaie2/assets/126459665/bad42a8f-721d-4b96-a216-27c88f948fe7
+
 
 
 ### <p align="center">Contact Me
+
+
+
  <div align="center">
    
   <a  href="https://www.linkedin.com/in/nada-aldubaie-3a3a96238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
