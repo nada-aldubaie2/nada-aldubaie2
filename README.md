@@ -8,12 +8,12 @@ Front-End web developer.
 <br>
 
 [comment]: #================================================
-<br/>
 ## <p align="center">💻 My Tech Stack:
   <div align="center">
   
  [![My Skills](https://skillicons.dev/icons?i=bootstrap,sass,tailwind,js,react,nextjs,)](https://skillicons.dev)
 <br>
+
 
 [comment]: #================================================
 ## <p align="center">🏆 My Stats::
@@ -28,8 +28,10 @@ Front-End web developer.
 [comment]: #===================================================
 ## <p align="center">💡A Quote:  
  <div align="center">
-  
-   [![nada](https://quotes-github-readme.vercel.app/api?border=true&horizontal&theme=dark?quote=)](https://github.com/piyushsuthar/github-readme-quotes)
+    <a href="https://github.com/nada-aldubaie2">
+      
+  [![nada](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?quote=nada)](https://github.com/piyushsuthar/github-readme-quotes)
+</a>
 <br>
 
 [comment]: #================================================
