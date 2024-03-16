@@ -1,3 +1,4 @@
+# I'm Nada 👋
 ### <p align="center">Contact Me
 
  <div align="center">
@@ -10,12 +11,12 @@
 <br>
 
 - 🔭 I’m currently working as freelancer 
-- 🌱 I’m currently learning Next.js
 - 🎯 I'm aiming to be full stack developer sooner.
 - ⚡ Fun fact: I draw, read books, play fitness.
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nada-aldubaie2&show_owner=truehow_icons=true&theme=dracula)
+
 ## <p align="center">💡A Quote:  
  <div align="center">
   
