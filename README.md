@@ -1,17 +1,4 @@
-
-![HELLO WORLD I'M NADA ALDUBAIE](https://pin.it/3Bn7IhflS)
-
-
-
-<div align="center">
-
-https://github.com/nada-aldubaie2/nada-aldubaie2/assets/126459665/3a8ec013-cdb7-4594-8f23-8a93f011ad76
-</div>
-
-
 ### <p align="center">Contact Me
-
-
 
  <div align="center">
    
@@ -28,12 +15,11 @@ https://github.com/nada-aldubaie2/nada-aldubaie2/assets/126459665/3a8ec013-cdb7-
 - ⚡ Fun fact: I draw, read books, play fitness.
 <br>
 
-## <p align="center">💡A Quote:
-  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+## <p align="center">💡A Quote:  
  <div align="center">
-   
+  
    [![nada](https://quotes-github-readme.vercel.app/api?border=true&horizontal&theme=dark?quote=)](https://github.com/piyushsuthar/github-readme-quotes)
-
 <br>
 
 ## <p align="center">💻 My Tech Stack:
