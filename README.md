@@ -16,7 +16,14 @@ Front-End web developer.
 
 
 [comment]: #================================================
+## <p align="center">🏆 My Stats::
+ <a href="https://github.com/nada-aldubaie2">
+<img alt="nada aldubaie status" height=200 align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=nada-aldubaie2&show_owner=true&show_icons=true&theme=dracula"/>
+</a>
+ <a href="https://github.com/nada-aldubaie2">
 
+<img alt="nada aldubaie status"  height=200 width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nada-aldubaie2&layout=compact&theme=dracula"/>
+</a>
 
 [comment]: #===================================================
 ## <p align="center">💡A Quote:  
