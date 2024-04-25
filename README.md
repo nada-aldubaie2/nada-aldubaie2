@@ -13,25 +13,29 @@ Front-End web developer.
   
  [![My Skills](https://skillicons.dev/icons?i=bootstrap,sass,tailwind,js,react,nextjs,)](https://skillicons.dev)
 <br>
-
+</div>
 
 [comment]: #================================================
-## <p align="center">🏆 My Stats::
+
+## <p align="center">🏆 My Stats:</p>
  <div>
- <a href="https://github.com/nada-aldubaie2">
-<img alt="nada aldubaie status" height=200 align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=nada-aldubaie2&show_owner=true&show_icons=true&theme=dracula"/>
-</a>
- <a href="https://github.com/nada-aldubaie2">
-<img alt="nada aldubaie status" height=200 align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula"/>
-</a>
-   </div>
-<hr>
+   
+   <a href="https://github.com/nada-aldubaie2">
+  <img alt="nada aldubaie status" height=200 align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nada-aldubaie2&show_owner=true&show_icons=true&theme=dracula"/>
+  </a>
+   <a href="https://github.com/nada-aldubaie2">
+  <img alt="nada aldubaie status" height=200 align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula"/>
+  </a>
+  <br>
+</div>
+
 
 [comment]: #===================================================
-
-## <p align="center">💡A Quote:  
+<br>
  <div align="center">
-    <a href="https://github.com/nada-aldubaie2">
+   
+## <p align="center">💡A Quote: </p>
+ <a href="https://github.com/nada-aldubaie2">
       
   [![nada](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?quote=nada)](https://github.com/piyushsuthar/github-readme-quotes)
 </a>
