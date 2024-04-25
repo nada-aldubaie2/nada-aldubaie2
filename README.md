@@ -22,8 +22,7 @@ Front-End web developer.
 </a>
  <a href="https://github.com/nada-aldubaie2">
 
-<img alt="nada aldubaie status"  height=200 width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nada-aldubaie2&layout=compact&theme=dracula"/>
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)</a>
 
 [comment]: #===================================================
 ## <p align="center">💡A Quote:  
