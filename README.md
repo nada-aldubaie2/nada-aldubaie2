@@ -26,6 +26,7 @@ Front-End web developer.
 </a>
    </div>
 <hr>
+
 [comment]: #===================================================
 
 ## <p align="center">💡A Quote:  
