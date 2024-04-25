@@ -24,6 +24,7 @@ Front-End web developer.
 
 <img alt="nada aldubaie status" height=200 align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula"/>
 </a>
+<br>
 
 [comment]: #===================================================
 ## <p align="center">💡A Quote:  
