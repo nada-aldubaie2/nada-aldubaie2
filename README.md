@@ -22,7 +22,7 @@ Front-End web developer.
 </a>
  <a href="https://github.com/nada-aldubaie2">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)</a>
+<img alt="nada aldubaie status" height=200 align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 
 [comment]: #===================================================
 ## <p align="center">💡A Quote:  
