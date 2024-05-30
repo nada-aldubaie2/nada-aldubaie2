@@ -29,35 +29,40 @@ Front-End web developer and UIX designer.
    <a href="https://github.com/nada-aldubaie2">
        <img alt="nada aldubaie status" height=200 align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nada-aldubaie2&layout=compact&theme=dracula"/>
   </a>
-  <br>
+  
 </div>
 
 
+
 [comment]: #===================================================
-<br>
- <div align="center">
    
-## <p align="center">💡A Quote: </p>
- <a href="https://github.com/nada-aldubaie2">
-      
-  [![nada](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?quote=nada)](https://github.com/piyushsuthar/github-readme-quotes)
-</a>
-<br>
+
 
 [comment]: #================================================
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+ <div align="center">
+
  ## <p align="center">📖 Read My Blogs:
   <a href="https://dev.to/nada2react">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
 </p>
+</div>
 
 [comment]: #================================================
-### <p align="center">Contact Me
+### <p align="center">📩Contact Me
 
  <div align="center">
    
   <a  href="https://www.linkedin.com/in/nada-aldubaie-3a3a96238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   </div>
 </p>
@@ -65,10 +70,13 @@ Front-End web developer and UIX designer.
  <hr>
  
 [comment]: #================================================
-### <p align="center"> When I'm AFK:
+<div align="center">
+  
+### <p align="center"> My UI UX Work:</p>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   <a  href="https://www.behance.net/nadaaldubaie">
     ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
   </a>
+  </div>
 
