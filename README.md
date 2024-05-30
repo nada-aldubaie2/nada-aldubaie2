@@ -1,7 +1,7 @@
 # I'm Nada Aldubaie👋
 Front-End web developer and UIX designer.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World+I'm+Nada;Front+end+Web+Developer&color=FFBB21FF&size=40&height=70&width=800&center=true&duration=3000&font=Courgette)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World+I'm+Nada;Full+Stack+Web+Developer&color=FFBB21FF&size=40&height=70&width=800&center=true&duration=3000&font=Courgette)](https://git.io/typing-svg)
 <br>
 
 - 👩‍💻Software Engineer sharing my learn journey in tech.
@@ -68,3 +68,7 @@ Front-End web developer and UIX designer.
 ### <p align="center"> When I'm AFK:
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  <a  href="https://www.behance.net/nadaaldubaie">
+    ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
+  </a>
+
