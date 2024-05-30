@@ -1,5 +1,7 @@
 # I'm Nada Aldubaie👋
 Front-End web developer and UIX designer.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World+I'm+Nada;Front+end+Web+Developer&color=FFBB21FF&size=40&height=70&width=800&center=true&duration=3000&font=mbf)](https://git.io/typing-svg)
 <br>
 
 - 👩‍💻Software Engineer sharing my learn journey in tech.
@@ -9,10 +11,10 @@ Front-End web developer and UIX designer.
 <br>
 
 [comment]: #================================================
-## <p align="center">🎯💡 My Languages and Skills:
+## <p align="center">💡 My Languages and Skills:
   <div align="center">
   
- [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,bootstrap,sass,tailwind,js,react,redux,py,django,postgres)](https://skillicons.dev)
+ ![My Skills](https://skillicons.dev/icons?i=cpp,html,css,bootstrap,sass,tailwind,js,react,redux,py,django,postgres)
 <br>
 </div>
 
