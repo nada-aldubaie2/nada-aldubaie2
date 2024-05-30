@@ -8,10 +8,10 @@ Front-End web developer.
 <br>
 
 [comment]: #================================================
-## <p align="center">💻 My Tech Stack:
+## <p align="center">💻 My Languages and Skills:
   <div align="center">
   
- [![My Skills](https://skillicons.dev/icons?i=bootstrap,sass,tailwind,js,react,nextjs,)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,bootstrap,sass,tailwind,js,react,redux,py,django,postgres)](https://skillicons.dev)
 <br>
 </div>
 
