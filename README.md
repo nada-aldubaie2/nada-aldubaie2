@@ -1,14 +1,15 @@
-# I'm Nada 👋
-Front-End web developer.
+# I'm Nada Aldubaie👋
+Front-End web developer and UIX designer.
 <br>
 
-- 💻 I’m  working as freelancer 
-- 🎯 I'm aiming to be full stack developer sooner.
+- 👩‍💻Software Engineer sharing my learn journey in tech.
+- 👩‍🎓Studied Computer Science at University.
+- 🪄UIX designer
 - ⚡ Fun fact: I draw, read books, play fitness.
 <br>
 
 [comment]: #================================================
-## <p align="center">💻 My Languages and Skills:
+## <p align="center">🎯💡 My Languages and Skills:
   <div align="center">
   
  [![My Skills](https://skillicons.dev/icons?i=cpp,html,css,bootstrap,sass,tailwind,js,react,redux,py,django,postgres)](https://skillicons.dev)
@@ -24,7 +25,6 @@ Front-End web developer.
   <img alt="nada aldubaie status" height=200 align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nada-aldubaie2&show_owner=true&show_icons=true&theme=dracula"/>
   </a>
    <a href="https://github.com/nada-aldubaie2">
-  <img alt="nada aldubaie status" height=200 align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nada-aldubaie2&layout=compact&theme=dracula"/>
   </a>
   <br>
 </div>
