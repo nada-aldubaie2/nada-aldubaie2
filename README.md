@@ -1,5 +1,5 @@
 # I'm Nada Aldubaie👋
-Front-End web developer and UIX designer.
+Full Stack Web Developer and UIX designer.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World+I'm+Nada;Full+Stack+Web+Developer&color=FFBB21FF&size=40&height=70&width=800&center=true&duration=3000&font=Courgette)](https://git.io/typing-svg)
 <br>
