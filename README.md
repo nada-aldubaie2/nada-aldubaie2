@@ -14,7 +14,7 @@ Full Stack Web Developer and UIX designer.
 ## <p align="center">💡 My Languages and Skills:
   <div align="center">
   
- ![My Skills](https://skillicons.dev/icons?i=cpp,html,css,bootstrap,sass,tailwind,js,react,redux,py,django,postgres,php,mysql)
+ ![My Skills](https://skillicons.dev/icons?i=cpp,html,css,bootstrap,sass,tailwind,js,react,next,redux,py,django,postgres)
 <br>
 </div>
 
