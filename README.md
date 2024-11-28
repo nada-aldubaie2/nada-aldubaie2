@@ -20,7 +20,7 @@ Full Stack Web Developer and UIX designer.
 
 [comment]: #================================================
 
-## <p align="center">🏆 My Stats:</p>
+## <p align="center">🏆 Github Stats:</p>
  <div>
    
    <a href="https://github.com/nada-aldubaie2">
