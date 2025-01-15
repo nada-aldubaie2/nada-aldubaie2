@@ -1,5 +1,5 @@
 # I'm Nada Aldubaie👋
-Full Stack Web Developer and UIX designer.
+Full Stack Web Developer and UX UI designer.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World+I'm+Nada;Full+Stack+Web+Developer;UI+UX+designer🪄&color=FFBB21FF&size=40&height=70&width=800&center=true&duration=3000&font=Courgette)](https://git.io/typing-svg)
 <br>
@@ -26,8 +26,8 @@ Full Stack Web Developer and UIX designer.
   <img alt="nada aldubaie status" height=200 align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nada-aldubaie2&show_owner=true&show_icons=true&theme=dracula"/>
   </a>
    <a href="https://github.com/nada-aldubaie2">
-       <img alt="nada aldubaie status" height=200 align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nada-aldubaie2&layout=compact&theme=dracula"/>
-  </a>
+     <img alt="nada aldubaie status" height=200 align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nada-aldubaie2&layout=compact&theme=dracula"/>
+  </a> 
   
 </div>
 
