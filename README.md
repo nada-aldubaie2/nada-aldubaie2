@@ -6,8 +6,7 @@ Full Stack Web Developer and UIX designer.
 
 - 👩‍💻Software Engineer sharing my learn journey in tech.
 - 👩‍🎓Studied Computer Science at University.
-- 🪄UIX designer
-- ⚡ Fun fact: I draw, read books, play fitness.
+- 🪄UX UI designer
 <br>
 
 [comment]: #================================================
