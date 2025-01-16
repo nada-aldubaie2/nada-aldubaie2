@@ -25,9 +25,9 @@ Full Stack Web Developer and UX UI designer.
    <a href="https://github.com/nada-aldubaie2">
   <img alt="nada aldubaie status" height=200 align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nada-aldubaie2&show_owner=true&show_icons=true&theme=dracula"/>
   </a>
-   <a href="https://github.com/nada-aldubaie2">
-     <img alt="nada aldubaie status" height=200 align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nada-aldubaie2&layout=compact&theme=dracula"/>
-  </a> 
+  <a href="https://github.com/nada-aldubaie2">
+    <img  alt="nada aldubaie status" height=200 align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nada-aldubaie2&layout=compact&langs_count=8&show_owner=true&theme=dracula" />
+  </a>   
   
 </div>
 
